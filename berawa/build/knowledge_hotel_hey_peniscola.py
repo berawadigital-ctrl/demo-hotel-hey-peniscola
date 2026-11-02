@@ -55,7 +55,7 @@ E('K11','contacto',
  dict(es='Teléfonos: +34 964 48 04 38 y 638 818 930. Correo: hey@hotelhey.com.',en='Phones: +34 964 48 04 38 and +34 638 818 930. Email: hey@hotelhey.com.',fr='Téléphones : +34 964 48 04 38 et +34 638 818 930. E-mail : hey@hotelhey.com.',de='Telefon: +34 964 48 04 38 und +34 638 818 930. E-Mail: hey@hotelhey.com.'),
  [('/contacto','Teléfono : +34 964 48 04 38 Email : hey@hotelhey.com'),('/contacto','ATENCIÓN AL CLIENTE 638 818 930')],cta=True),
 E('K12','supletoria',
- dict(es=['supletoria','cama extra','triple','familia'],en=['extra bed','triple','family'],fr=['lit d’appoint','lit supplementaire','triple','famille'],de=['zustellbett','dreibett','familie']),
+ dict(es=['supletoria','cama extra','familia'],en=['extra bed','family'],fr=['appoint','lit supplementaire','famille'],de=['zustellbett','familie']),
  dict(es='Sí, disponen de camas supletorias: puedes reservar una habitación triple.',en='Yes, they have extra beds: you can book a triple room.',fr='Oui, ils ont des lits d’appoint : vous pouvez réserver une chambre triple.',de='Ja, es gibt Zustellbetten: Sie können ein Dreibettzimmer buchen.'),
  [(HB,'Reserva tu habitación triple, dado que disponemos de camas supletorias')]),
 ]

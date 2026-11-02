@@ -516,23 +516,19 @@
     "es": [
      "supletoria",
      "cama extra",
-     "triple",
      "familia"
     ],
     "en": [
      "extra bed",
-     "triple",
      "family"
     ],
     "fr": [
-     "lit d’appoint",
+     "appoint",
      "lit supplementaire",
-     "triple",
      "famille"
     ],
     "de": [
      "zustellbett",
-     "dreibett",
      "familie"
     ]
    },
