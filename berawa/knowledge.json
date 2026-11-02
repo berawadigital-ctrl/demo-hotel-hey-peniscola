@@ -1,0 +1,554 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-hey-peniscola",
+ "source_site": "https://www.hotelhey.com/",
+ "source_read_at": "2026-11-02T10:59:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "doble",
+     "triple",
+     "vista mar"
+    ],
+    "en": [
+     "which rooms",
+     "room types",
+     "double",
+     "triple",
+     "sea view"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre",
+     "double",
+     "triple",
+     "vue mer"
+    ],
+    "de": [
+     "welche zimmer",
+     "zimmertypen",
+     "doppelzimmer",
+     "dreibett",
+     "meerblick"
+    ]
+   },
+   "a": {
+    "es": "Tiene 50 habitaciones. Ofrece doble frontal vista mar, doble lateral vista mar y triple lateral vista mar; hay 6 habitaciones frontales y 10 laterales con vista al mar.",
+    "en": "It has 50 rooms. It offers a front double with sea view, a side double with sea view and a side triple with sea view; there are 6 front and 10 side sea-view rooms.",
+    "fr": "Il compte 50 chambres. Il propose double frontale vue mer, double latérale vue mer et triple latérale vue mer ; il y a 6 chambres frontales et 10 latérales vue mer.",
+    "de": "Es hat 50 Zimmer: Doppelzimmer frontal mit Meerblick, Doppelzimmer seitlich mit Meerblick und Dreibettzimmer seitlich mit Meerblick; 6 Zimmer frontal und 10 seitlich mit Meerblick."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/nosotros",
+     "quote": "50 HABITACIONES 6 Habitaciones frontales vista mar 10 Habitaciones laterales vista mar"
+    },
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Doble frontal vista mar VER HOTEL HEY Doble lateral vista mar VER HOTEL HEY Triple lateral vista mar"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen las habitaciones",
+     "aire acondicionado",
+     "nevera",
+     "terraza",
+     "balcon",
+     "television"
+    ],
+    "en": [
+     "include",
+     "air conditioning",
+     "fridge",
+     "terrace",
+     "balcony",
+     " tv"
+    ],
+    "fr": [
+     "comprennent",
+     "climatisation",
+     "refrigerateur",
+     "terrasse",
+     "balcon",
+     "television"
+    ],
+    "de": [
+     "bieten die zimmer",
+     "klimaanlage",
+     "kuhlschrank",
+     "terrasse",
+     "balkon",
+     "fernseh"
+    ]
+   },
+   "a": {
+    "es": "Todas tienen baño privado con ducha, secador y artículos de aseo gratis, aire acondicionado, balcón o terraza, nevera y TV por satélite.",
+    "en": "All have a private bathroom with shower, hairdryer and free toiletries, air conditioning, a balcony or terrace, a fridge and satellite TV.",
+    "fr": "Toutes ont salle de bains privée avec douche, sèche-cheveux et produits d’accueil gratuits, climatisation, balcon ou terrasse, réfrigérateur et TV satellite.",
+    "de": "Alle haben eigenes Bad mit Dusche, Föhn und kostenlosen Pflegeartikeln, Klimaanlage, Balkon oder Terrasse, Kühlschrank und Satelliten-TV."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+     "quote": "Todas las habitaciones del hotel disponen de baño privado con servicio de cambio de toallas, ducha, secador de pelo y artículos de aseo gratis"
+    },
+    {
+     "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+     "quote": "Todas nuestras habitaciones disponen de aire acondicionado en el interior y balcón o terraza"
+    },
+    {
+     "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+     "quote": "Las habitaciones disponen de una nevera para uso particular"
+    },
+    {
+     "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+     "quote": "TV SATÉLITE"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "bañar"
+    ],
+    "en": [
+     "pool",
+     "swim"
+    ],
+    "fr": [
+     "piscine",
+     "baigner"
+    ],
+    "de": [
+     "pool",
+     "schwimm"
+    ]
+   },
+   "a": {
+    "es": "Sí, tiene piscina al aire libre.",
+    "en": "Yes, there is an outdoor pool.",
+    "fr": "Oui, il y a une piscine extérieure.",
+    "de": "Ja, es gibt einen Außenpool."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+     "quote": "Piscina AL AIRE LIBRE"
+    },
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Diviértete en nuestra fantástica piscina!"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar"
+    ],
+    "en": [
+     "breakfast"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner"
+    ],
+    "de": [
+     "fruhstuck"
+    ]
+   },
+   "a": {
+    "es": "Sí, en El Restaurant Hey hay servicio de desayuno continental.",
+    "en": "Yes, El Restaurant Hey serves a continental breakfast.",
+    "fr": "Oui, El Restaurant Hey propose un petit-déjeuner continental.",
+    "de": "Ja, im El Restaurant Hey gibt es kontinentales Frühstück."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Disponemos en El Restaurant Hey de servicio de desayuno continental"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "restaurante",
+   "keys": {
+    "es": [
+     "restaurante",
+     "comer",
+     "cenar",
+     "arroz",
+     "cocina"
+    ],
+    "en": [
+     "restaurant",
+     "lunch",
+     "dinner",
+     "rice",
+     "cuisine"
+    ],
+    "fr": [
+     "restaurant",
+     "dejeuner",
+     "diner",
+     "riz",
+     "cuisine"
+    ],
+    "de": [
+     "restaurant",
+     "mittagessen",
+     "abendessen",
+     "reis",
+     "kuche"
+    ]
+   },
+   "a": {
+    "es": "Sí: El Restaurant Hey ofrece cocina mediterránea; desde hace más de 35 años preparan arroces y platos típicos de la forma más tradicional.",
+    "en": "Yes: El Restaurant Hey serves Mediterranean cuisine; for over 35 years they have cooked rice dishes and local specialities the traditional way.",
+    "fr": "Oui : El Restaurant Hey propose une cuisine méditerranéenne ; depuis plus de 35 ans, ils préparent riz et plats typiques de façon traditionnelle.",
+    "de": "Ja: Das El Restaurant Hey bietet mediterrane Küche; seit über 35 Jahren werden Reisgerichte und typische Speisen traditionell zubereitet."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com",
+     "quote": "Cocina Mediterránea Durante más de 35 años hemos preparado arroces y platos típicos de nuestra famosa gastronomía de la forma más tradicional"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check-in",
+     "check in",
+     "entrada",
+     "check-out",
+     "salida",
+     "horario"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "arrival",
+     "departure"
+    ],
+    "fr": [
+     "check-in",
+     "arrivee",
+     "check-out",
+     "depart"
+    ],
+    "de": [
+     "check-in",
+     "anreise",
+     "check-out",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "El check-in es a las 14:00 y el check-out a las 12:00.",
+    "en": "Check-in is at 14:00 and check-out at 12:00.",
+    "fr": "Le check-in est à 14:00 et le check-out à 12:00.",
+    "de": "Check-in ist um 14:00, Check-out um 12:00."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "Check-In : 14:00 H"
+    },
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "Check-Out : 12:00 H"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "playa",
+     "castillo"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location",
+     "beach",
+     "castle"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "plage",
+     "chateau"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "strand",
+     "burg"
+    ]
+   },
+   "a": {
+    "es": "Está en la Avenida Valencia, 114, 12598 Peñíscola (Castellón), a los pies de la playa y a unos 1.500 m del Castillo del Papa Luna.",
+    "en": "It is at Avenida Valencia, 114, 12598 Peñíscola (Castellón), right by the beach and about 1,500 m from the Castle of Pope Luna.",
+    "fr": "L’hôtel se trouve Avenida Valencia, 114, 12598 Peñíscola (Castellón), au pied de la plage et à environ 1 500 m du château du pape Luna.",
+    "de": "Das Hotel liegt in der Avenida Valencia, 114, 12598 Peñíscola (Castellón), direkt am Strand und etwa 1.500 m von der Burg des Papstes Luna."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "Avenida Valencia, 114 Ciudad : Peñíscola 12598 - Castellón"
+    },
+    {
+     "url": "https://www.hotelhey.com/nosotros",
+     "quote": "a los mismos pies de la maravillosa playa de Peñíscola y a escasos 1.500m del Castillo del Papa Luna"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Reservas por teléfono o correo: escribe a hey@hotelhey.com (botón Reservar) o llama al +34 964 48 04 38 o al 638 818 930. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "Bookings by phone or email: write to hey@hotelhey.com (Book button) or call +34 964 48 04 38 or +34 638 818 930. This assistant does not confirm availability or bookings.",
+    "fr": "Réservations par téléphone ou e-mail : écrivez à hey@hotelhey.com (bouton Réserver) ou appelez le +34 964 48 04 38 ou le +34 638 818 930. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Buchungen per Telefon oder E-Mail: an hey@hotelhey.com schreiben (Schaltfläche Buchen) oder +34 964 48 04 38 bzw. +34 638 818 930 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Ponte en contacto con nosotros y consulta disponibilidad y tarifas por teléfono o email"
+    },
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "Teléfono : +34 964 48 04 38 Email : hey@hotelhey.com"
+    },
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "ATENCIÓN AL CLIENTE 638 818 930"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, wifi gratuito en todo el hotel.",
+    "en": "Yes, free wifi throughout the hotel.",
+    "fr": "Oui, wifi gratuit dans tout l’hôtel.",
+    "de": "Ja, kostenloses WLAN im ganzen Hotel."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Wi-fi gratuita en todo el hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "fumar",
+   "keys": {
+    "es": [
+     "fumar",
+     "tabaco"
+    ],
+    "en": [
+     "smok",
+     "cigarette"
+    ],
+    "fr": [
+     "fumer",
+     "cigarette"
+    ],
+    "de": [
+     "rauch",
+     "zigarette"
+    ]
+   },
+   "a": {
+    "es": "No: según la normativa vigente, está prohibido fumar en el interior del hotel.",
+    "en": "No: under current regulations, smoking is forbidden inside the hotel.",
+    "fr": "Non : selon la réglementation en vigueur, il est interdit de fumer à l’intérieur de l’hôtel.",
+    "de": "Nein: Nach geltenden Vorschriften ist Rauchen im Hotel verboten."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Según la normativa vigente se prohíbe fumar en el interior del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfonos: +34 964 48 04 38 y 638 818 930. Correo: hey@hotelhey.com.",
+    "en": "Phones: +34 964 48 04 38 and +34 638 818 930. Email: hey@hotelhey.com.",
+    "fr": "Téléphones : +34 964 48 04 38 et +34 638 818 930. E-mail : hey@hotelhey.com.",
+    "de": "Telefon: +34 964 48 04 38 und +34 638 818 930. E-Mail: hey@hotelhey.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "Teléfono : +34 964 48 04 38 Email : hey@hotelhey.com"
+    },
+    {
+     "url": "https://www.hotelhey.com/contacto",
+     "quote": "ATENCIÓN AL CLIENTE 638 818 930"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "supletoria",
+   "keys": {
+    "es": [
+     "supletoria",
+     "cama extra",
+     "triple",
+     "familia"
+    ],
+    "en": [
+     "extra bed",
+     "triple",
+     "family"
+    ],
+    "fr": [
+     "lit d’appoint",
+     "lit supplementaire",
+     "triple",
+     "famille"
+    ],
+    "de": [
+     "zustellbett",
+     "dreibett",
+     "familie"
+    ]
+   },
+   "a": {
+    "es": "Sí, disponen de camas supletorias: puedes reservar una habitación triple.",
+    "en": "Yes, they have extra beds: you can book a triple room.",
+    "fr": "Oui, ils ont des lits d’appoint : vous pouvez réserver une chambre triple.",
+    "de": "Ja, es gibt Zustellbetten: Sie können ein Dreibettzimmer buchen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelhey.com/habitaciones",
+     "quote": "Reserva tu habitación triple, dado que disponemos de camas supletorias"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
