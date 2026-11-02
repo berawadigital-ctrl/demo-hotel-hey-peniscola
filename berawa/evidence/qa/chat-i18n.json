@@ -1,5 +1,5 @@
 {
- "url": "http://127.0.0.1:36111/index.html",
+ "url": "http://127.0.0.1:37631/index.html",
  "langs": {
   "es": {
    "textos_iguales_al_es": [],
@@ -287,8 +287,8 @@
     {
      "q": "Avez-vous des lits d’appoint ?",
      "esperado": "K12",
-     "ok": false,
-     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+     "ok": true,
+     "respuesta": "Oui, ils ont des lits d’appoint : vous pouvez réserver une chambre triple."
     },
     {
      "q": "Combien coûte la nuit ?",
@@ -415,8 +415,6 @@
    ]
   }
  },
- "fail": [
-  "fr: chat \"Avez-vous des lits d’appoint ?\" esperado K12 -> Je ne dispose pas de cette information. Contactez-nous : +34 964 48 04 38 · +34 "
- ],
- "ok": false
+ "fail": [],
+ "ok": true
 }

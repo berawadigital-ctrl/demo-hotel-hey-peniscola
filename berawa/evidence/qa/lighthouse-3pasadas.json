@@ -10,19 +10,19 @@
     "lh": "13.6.0"
    },
    {
-    "performance": 99,
-    "accessibility": 100,
-    "best-practices": 100,
-    "seo": 58,
-    "lcp_s": 1.45,
-    "lh": "13.6.0"
-   },
-   {
     "performance": 95,
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 1.35,
+    "lcp_s": 1.43,
+    "lh": "13.6.0"
+   },
+   {
+    "performance": 99,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 58,
+    "lcp_s": 1.49,
     "lh": "13.6.0"
    }
   ],
@@ -44,7 +44,7 @@
     "accessibility": 100,
     "best-practices": 100,
     "seo": 58,
-    "lcp_s": 0.38,
+    "lcp_s": 0.39,
     "lh": "13.6.0"
    },
    {
