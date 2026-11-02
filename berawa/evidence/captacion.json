@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-hey-peniscola",
+ "maps": {
+  "fecha": "2026-10-30T08:32:14+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Hey Peñiscola",
+  "nota": 4.2,
+  "coincide": {
+   "tel": false,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/search/Hotel+Hey+Pe%C3%B1%C3%ADscola",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-30T08:32:14+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "HOTEL HEY S.L.",
+  "cif": "B12905550",
+  "fuente": "https://www.hotelhey.com/aviso-legal",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal hotelhey.com: Hotel Hey S.L. (B12905550); un solo hotel («Hotel Hey & Garrik» es el nombre antiguo del mismo hotel)"
+ }
+}
