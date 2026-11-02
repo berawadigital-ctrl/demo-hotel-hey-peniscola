@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelhey.com/",
+ "read_at": "2026-11-02T10:59:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelhey.com",
+   "sha256": "9ed34c381c24ec6e9b5376ae43de6bfb8b4be72713c12ed0ac0394768e6498fd",
+   "chars": 2204
+  },
+  {
+   "url": "https://www.hotelhey.com/contacto",
+   "sha256": "f5107bf514dd246aea43db106e009aad9a3d81b01654d36856de80b4abeeaef8",
+   "chars": 986
+  },
+  {
+   "url": "https://www.hotelhey.com/habitacion-doble-frontal",
+   "sha256": "8dd02a6eb7c7c068ebeb0dd7d1805a1fd0fefdccf603d8b3aba8ecccff22b09a",
+   "chars": 2245
+  },
+  {
+   "url": "https://www.hotelhey.com/habitaciones",
+   "sha256": "a669407fa6e967523b529a4fdd2968552efc1bc77d00e32ac9e61557289e6b33",
+   "chars": 2691
+  },
+  {
+   "url": "https://www.hotelhey.com/nosotros",
+   "sha256": "5e3e4588faf0c6b7cf89249e0eb3a6f1b21aea7d97a66e244f6a24d07067a954",
+   "chars": 1226
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelhey.com/blog",
+  "https://www.hotelhey.com/casco-antiguo-de-peniscola",
+  "https://www.hotelhey.com/castillo-de-peniscola",
+  "https://www.hotelhey.com/galeria",
+  "https://www.hotelhey.com/habitacion-doble-lateral",
+  "https://www.hotelhey.com/habitacion-triple-lateral",
+  "https://www.hotelhey.com/museo-del-mar",
+  "https://www.hotelhey.com/palacio-de-congresos",
+  "https://www.hotelhey.com/parque-natural-sierra-de-irta",
+  "https://www.hotelhey.com/politica-privacidad",
+  "https://www.hotelhey.com/restaurante"
+ ]
+}

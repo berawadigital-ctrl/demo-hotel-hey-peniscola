@@ -1,0 +1,420 @@
+{
+ "url": "http://127.0.0.1:33885/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 50 habitaciones. Ofrece doble frontal vista mar, doble lateral vista mar y triple lateral vista mar; hay 6 habitaciones frontales y 10"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas tienen baño privado con ducha, secador y artículos de aseo gratis, aire acondicionado, balcón o terraza, nevera y TV por satélite."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, tiene piscina al aire libre."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, en El Restaurant Hey hay servicio de desayuno continental."
+    },
+    {
+     "q": "¿Tenéis restaurante?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí: El Restaurant Hey ofrece cocina mediterránea; desde hace más de 35 años preparan arroces y platos típicos de la forma más tradicional."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El check-in es a las 14:00 y el check-out a las 12:00."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Avenida Valencia, 114, 12598 Peñíscola (Castellón), a los pies de la playa y a unos 1.500 m del Castillo del Papa Luna."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Reservas por teléfono o correo: escribe a hey@hotelhey.com (botón Reservar) o llama al +34 964 48 04 38 o al 638 818 930. Este asistente no "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Reservas por teléfono o correo: escribe a hey@hotelhey.com (botón Reservar) o llama al +34 964 48 04 38 o al 638 818 930. Este asistente no "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, wifi gratuito en todo el hotel."
+    },
+    {
+     "q": "¿Se puede fumar?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "No: según la normativa vigente, está prohibido fumar en el interior del hotel."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfonos: +34 964 48 04 38 y 638 818 930. Correo: hey@hotelhey.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis camas supletorias?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, disponen de camas supletorias: puedes reservar una habitación triple."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Tenéis piscina?",
+    "¿Hay desayuno?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 50 rooms. It offers a front double with sea view, a side double with sea view and a side triple with sea view; there are 6 front and "
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have a private bathroom with shower, hairdryer and free toiletries, air conditioning, a balcony or terrace, a fridge and satellite TV."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is an outdoor pool."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, El Restaurant Hey serves a continental breakfast."
+    },
+    {
+     "q": "Do you have a restaurant?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes: El Restaurant Hey serves Mediterranean cuisine; for over 35 years they have cooked rice dishes and local specialities the traditional w"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in is at 14:00 and check-out at 12:00."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Avenida Valencia, 114, 12598 Peñíscola (Castellón), right by the beach and about 1,500 m from the Castle of Pope Luna."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Bookings by phone or email: write to hey@hotelhey.com (Book button) or call +34 964 48 04 38 or +34 638 818 930. This assistant does not con"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Bookings by phone or email: write to hey@hotelhey.com (Book button) or call +34 964 48 04 38 or +34 638 818 930. This assistant does not con"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, free wifi throughout the hotel."
+    },
+    {
+     "q": "Can I smoke?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "No: under current regulations, smoking is forbidden inside the hotel."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phones: +34 964 48 04 38 and +34 638 818 930. Email: hey@hotelhey.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have extra beds?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, they have extra beds: you can book a triple room."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Do you have a pool?",
+    "Is there breakfast?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 50 chambres. Il propose double frontale vue mer, double latérale vue mer et triple latérale vue mer ; il y a 6 chambres frontales "
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes ont salle de bains privée avec douche, sèche-cheveux et produits d’accueil gratuits, climatisation, balcon ou terrasse, réfrigérateur"
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a une piscine extérieure."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, El Restaurant Hey propose un petit-déjeuner continental."
+    },
+    {
+     "q": "Avez-vous un restaurant ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui : El Restaurant Hey propose une cuisine méditerranéenne ; depuis plus de 35 ans, ils préparent riz et plats typiques de façon traditionn"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Le check-in est à 14:00 et le check-out à 12:00."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Avenida Valencia, 114, 12598 Peñíscola (Castellón), au pied de la plage et à environ 1 500 m du château du pape Luna."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Réservations par téléphone ou e-mail : écrivez à hey@hotelhey.com (bouton Réserver) ou appelez le +34 964 48 04 38 ou le +34 638 818 930. Ce"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Réservations par téléphone ou e-mail : écrivez à hey@hotelhey.com (bouton Réserver) ou appelez le +34 964 48 04 38 ou le +34 638 818 930. Ce"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit dans tout l’hôtel."
+    },
+    {
+     "q": "Peut-on fumer ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Non : selon la réglementation en vigueur, il est interdit de fumer à l’intérieur de l’hôtel."
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphones : +34 964 48 04 38 et +34 638 818 930. E-mail : hey@hotelhey.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous des lits d’appoint ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, ils ont des lits d’appoint : vous pouvez réserver une chambre triple."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Avez-vous une piscine ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es hat 50 Zimmer: Doppelzimmer frontal mit Meerblick, Doppelzimmer seitlich mit Meerblick und Dreibettzimmer seitlich mit Meerblick; 6 Zimme"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben eigenes Bad mit Dusche, Föhn und kostenlosen Pflegeartikeln, Klimaanlage, Balkon oder Terrasse, Kühlschrank und Satelliten-TV."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Außenpool."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, im El Restaurant Hey gibt es kontinentales Frühstück."
+    },
+    {
+     "q": "Haben Sie ein Restaurant?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja: Das El Restaurant Hey bietet mediterrane Küche; seit über 35 Jahren werden Reisgerichte und typische Speisen traditionell zubereitet."
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in ist um 14:00, Check-out um 12:00."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Avenida Valencia, 114, 12598 Peñíscola (Castellón), direkt am Strand und etwa 1.500 m von der Burg des Papstes Luna."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Buchungen per Telefon oder E-Mail: an hey@hotelhey.com schreiben (Schaltfläche Buchen) oder +34 964 48 04 38 bzw. +34 638 818 930 anrufen. D"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Buchungen per Telefon oder E-Mail: an hey@hotelhey.com schreiben (Schaltfläche Buchen) oder +34 964 48 04 38 bzw. +34 638 818 930 anrufen. D"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja, kostenloses WLAN im ganzen Hotel."
+    },
+    {
+     "q": "Darf man rauchen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Nein: Nach geltenden Vorschriften ist Rauchen im Hotel verboten."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 964 48 04 38 und +34 638 818 930. E-Mail: hey@hotelhey.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Haben Sie Zustellbetten?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, es gibt Zustellbetten: Sie können ein Dreibettzimmer buchen."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 964 48 04 38 · +34 638 818 930 · hey@hotelhey.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Haben Sie einen Pool?",
+    "Gibt es Frühstück?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

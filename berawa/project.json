@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-hey-peniscola",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T10:59:00+01:00",
+ "updated_at": "2026-11-02T11:25:00+01:00",
+ "business": {
+  "name": "Hotel Hey",
+  "legal_name": "Hotel Hey S.L., CIF B12905550 (aviso legal de su web)",
+  "registry_ids": [
+   "B12905550"
+  ],
+  "url": "https://www.hotelhey.com/",
+  "domain": "hotelhey.com",
+  "municipality": "Peñíscola",
+  "province": "Castellón",
+  "address": "Avenida Valencia, 114 · 12598 Peñíscola",
+  "phones": [
+   "+34 964 48 04 38",
+   "+34 638 818 930"
+  ],
+  "emails": [
+   "hey@hotelhey.com"
+  ],
+  "sector": "hotel de playa de 3 estrellas en Peñíscola"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/search/Hotel+Hey+Pe%C3%B1%C3%ADscola",
+  "date": "2026-10-30",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "url": "mailto:hey@hotelhey.com",
+  "note": "sin motor de reservas: su web dice «Ponte en contacto con nosotros y consulta disponibilidad y tarifas por teléfono o email». Los botones Reservar de la demo abren un correo a hey@hotelhey.com y los telefonos reales 964 48 04 38 y 638 818 930 van en tel: (mismo criterio que San Martin y Andrin)."
+ },
+ "audit_original": {
+  "url": "https://www.hotelhey.com/",
+  "date": "2026-11-02T10:59:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
